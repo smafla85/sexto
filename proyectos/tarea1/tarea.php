@@ -4,7 +4,7 @@
 $edad = 39 ; 
 
 // 2. Float
-$peso = 78.5; 
+$peso = 77.5; 
 
 // 3. String
 $nombre = "Leonardo Mafla. "; 
